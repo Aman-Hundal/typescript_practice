@@ -4,5 +4,5 @@ console.log('Hello World'); //valid TS and JS. Compile with tsc helloWorld.ts. T
 function hello(string) {
     console.log("Hello" + string);
 }
-// hello(1) this will not allow you to compile this script into JS as we added a String type to the function above. 
+// hello(1) //this will not allow you to compile this script into JS as we added a String type to the function above. 
 hello("Elliot"); // this will compile to JS as "elliot" is a string
