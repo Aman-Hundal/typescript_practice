@@ -6,4 +6,13 @@
   - types that are inclded by  default in TS
   - in TS we define a type with a colon
   - why CANT I USE CONST AND LET? IT CONVERTS TO VAR which i hate
-  - 
+  - TS has the ability to add as many types as you would like using the modular class and interface system.
+  - however there are built in basic types that you can use
+    - Number 
+    - String
+    - Boolean (allows you to lock a property between true or false)
+    - array
+    - Enum
+    - Any
+    - void
+  - See types.ts for examples of the above types
