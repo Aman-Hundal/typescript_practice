@@ -25,3 +25,6 @@
    - classes make up the blueprint of objects (like in JS). They are constructed have various instances (which are called objects)
    - see classes.ts
    - classes can implement interfaces
+  - inheritance in TS
+   - inheritance is a way for objects or classes to gain access to the properties of classes that are possesed by other objects
+   extends is the key word (similar to JS)
