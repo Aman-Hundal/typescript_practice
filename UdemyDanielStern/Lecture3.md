@@ -16,3 +16,12 @@
     - Any
     - void
   - See types.ts for examples of the above types
+  - interfaces
+   - another way TS checks our code for errors as its compiled to js
+   - an interface is a def for an object that tells TS what that object is going to be
+   - see interfaces.ts
+  - Classes in TS
+   - more powerful and similar to interfaces in TS
+   - classes make up the blueprint of objects (like in JS). They are constructed have various instances (which are called objects)
+   - see classes.ts
+   - classes can implement interfaces
